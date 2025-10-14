@@ -7,7 +7,9 @@
   "keywords": [
     "Dependency"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "com.unity.addressables": "2.7.2"
+  },
   "homepage": "https://github.com/1mbitshorde/InitializationSystem#readme",
   "repository": {
     "type": "git",
