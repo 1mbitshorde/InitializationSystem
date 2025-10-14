@@ -16,7 +16,7 @@ Instantiates a "Dependencies" Prefab via Addressables into the **DontDestroyOnLo
 
 Executes an `UnityEvent` when `DependencyInstantiater` finishes to instantiate all dependencies. Use it to execute uncoupled code 
 
-![Dependency Instantiate Handler](/Docs~/DontDestroDependencyInstantiateHandleryOnLoad.png "DependencyInstantiateHandler")
+![Dependency Instantiate Handler](/Docs~/DependencyInstantiateHandler.png "DependencyInstantiateHandler")
 
 ## Installation
 
