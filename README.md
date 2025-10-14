@@ -4,7 +4,15 @@ Initialization code to load global dependencies.
 
 ## How To Use
 
-### Using [...]
+### Using DependencyInstantiater
+
+Instantiates a "Dependencies" Prefab via Addressables into the **DontDestroyOnLoad Scene** when the game enters in Play mode for any Scene.
+
+>**Note**: name your Prefab as Dependencies and set it as addressable using the same name.
+
+### Using DependencyInstantiateHandler
+
+Executes an **UnityEvent** when **DependencyInstantiater** finishes to instantiate all dependencies.
 
 ## Installation
 
