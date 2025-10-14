@@ -1,6 +1,6 @@
-# [PackageName]
+# Initialization System
 
-[...]
+Initialization code to load global dependencies.
 
 ## How To Use
 
