@@ -8,6 +8,8 @@ Initialization code to load global dependencies.
 
 Instantiates a "Dependencies" Prefab via Addressables into the **DontDestroyOnLoad Scene** when the game enters in Play mode for any Scene.
 
+![Dont Destroy On Load](/Docs~/DontDestroyOnLoad.png "DontDestroyOnLoad")
+
 >**Note**: name your Prefab as Dependencies and set it as addressable using the same name.
 
 ### Using DependencyInstantiateHandler
